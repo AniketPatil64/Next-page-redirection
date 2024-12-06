@@ -1,3 +1,4 @@
+'use client'
 import { useEffect, useState } from 'react';
 import SuperTokens from 'supertokens-auth-react';
 import EmailPassword from 'supertokens-auth-react/recipe/emailpassword';
